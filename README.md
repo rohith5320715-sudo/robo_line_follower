@@ -23,11 +23,9 @@ automatically adjusts the motor direction to follow the path.
 - Arduino Nano
 - L298N Motor Driver
 - 2 × IR Sensor Modules
-- 2 × DC Geared Motors
-- 2 × Wheels
-- 1 × Caster Wheel
+- 4 × DC Geared Motors
+- 4 × Wheels
 - Battery Pack
-- Robot Chassis
 - Jumper Wires
 - Switch
 - Screws and mounting components
